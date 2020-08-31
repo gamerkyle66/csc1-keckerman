@@ -1,4 +1,5 @@
-# csc1-keckerman| Name | Value |
+# csc1-keckerman
+| Name | Value |
 |:---|:---|
 | **Course** | CSCI111 - CS1: Foundations of Computer Science |
 | **Section** | 001 |
