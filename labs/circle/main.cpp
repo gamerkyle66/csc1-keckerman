@@ -25,17 +25,17 @@ int main()
 	double radius=0, area=0, circumference=0;
 	string name = "Anonymous"; // variable to store user's name
 	cout << "Hi there, what's your full name? ";
-	getline (cin,name); // fix me 3
+	getline (cin,name); // fix me 3 #fixed#
 	cout << "Nice meeting you, " << name << "!" << endl;
 	// display some information about this program to the user
 	cout << "\nProgram finds area and circumference of a circle with the given radius.\n\n";
 	cout << name << ", please enter radius of a circle: ";
 	cin >> radius; 
 	area = pi * pow(radius, 2); // same as pi * radius squared
-    circumference = radius * 2 *  pi; // fixme 4 finding circumfrence
+    circumference = radius * 2 *  pi; // fixme 4 finding circumfrence #fixed#
 	cout << "Your circle has radius: " << fixed << setprecision(6) << radius << endl;
 	cout << "Area of the circle is:\t" << area << '\n';
-	cout << "Circumference of the circle is: " << setprecision(6) << circumference << endl; // fix me 5 
+	cout << "Circumference of the circle is: " << setprecision(6) << circumference << endl; // fix me 5 #fixed#
 
 	// the following code may be required to make your console pause...
 	cout << "Hit enter to exit the program!" << '\n';
