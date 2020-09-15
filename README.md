@@ -22,3 +22,16 @@
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/ascii |
 | Self Grade | - |
 | Notes | typed the given code stub; need to fix all the fixmes |
+
+
+## Labs
+### Lab #2
+| Name | Value |
+| :--- | :--- |
+| Name | 2 - circle Lab |
+| Description | Lab covering math |
+| Due Date | 9-15-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/circle|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
