@@ -9,7 +9,7 @@ CXX = g++
 CXXFLAGS = -c -g -Wall -std=c++17
 
 # the build target executable file; .exe is not required
-PROGRAM = circle.exe
+PROGRAM = Triangle.exe
 
 # list .cpp files separated by space
 CPPFILES = main.cpp
