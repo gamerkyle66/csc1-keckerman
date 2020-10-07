@@ -35,3 +35,14 @@
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/circle|
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
+
+### Lab #4
+| Name | Value |
+| :--- | :--- |
+| Name | 4 conditionals|
+| Description | Lab covering conditionals |
+| Due Date | 10-7-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/functions|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
