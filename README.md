@@ -46,3 +46,33 @@
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/functions|
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
+
+### assignments
+## asignment 1
+
+| Name | Value |
+| :--- | :--- |
+| Name | 1  |
+| Description | assignment about math |
+| Due Date |  |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/Triangle|
+| Self Grade | b|
+| Notes | |
+
+## asignment 4
+
+| Name | Value |
+| :--- | :--- |
+| Name | conditionals assignment  |
+| Description | assignment about conditionals|
+| Due Date | 10 9 2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/conditionals|
+| Self Grade | a|
+| Notes | typed program to compute various operations on 5 numbers|
+
+
+
+
+
