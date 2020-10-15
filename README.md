@@ -47,6 +47,18 @@
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
 
+## lab #5
+
+| Name | Value |
+| :--- | :--- |
+| Name | 5 loops|
+| Description | Lab covering loops |
+| Due Date | 10-15-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/loops|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
+
 ### assignments
 ## asignment 1
 
