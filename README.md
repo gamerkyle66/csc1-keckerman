@@ -59,6 +59,21 @@
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
 
+## lab #6
+
+| Name | Value |
+| :--- | :--- |
+| Name | 5 pointers|
+| Description | Lab covering pointers |
+| Due Date | 10-23-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/pointers|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
+
+
+
+
 ### assignments
 ## asignment 1
 
