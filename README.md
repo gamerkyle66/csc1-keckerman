@@ -71,6 +71,19 @@
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
 
+## lab #7
+
+| Name | Value |
+| :--- | :--- |
+| Name | 7 strings
+| Description | Lab covering strings |
+| Due Date | 10-26-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/strings|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
+
+
 
 
 
@@ -98,6 +111,18 @@
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/conditionals|
 | Self Grade | a|
 | Notes | typed program to compute various operations on 5 numbers|
+
+## asignment 6
+
+| Name | string |
+| :--- | :--- |
+| Name | string assignment  |
+| Description | assignment about strings|
+| Due Date | 10 26 2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/strings|
+| Self Grade | a|
+| Notes | typed program for kattis|
 
 
 
