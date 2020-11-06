@@ -83,6 +83,18 @@
 | Self Grade | A |
 | Notes | typed the given code stub; need to fix all the fixmes |
 
+## lab #8
+
+| Name | Value |
+| :--- | :--- |
+| Name | 8 array
+| Description | Lab covering arrays |
+| Due Date | 11-6-2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/labs/array|
+| Self Grade | A |
+| Notes | typed the given code stub; need to fix all the fixmes |
+
 
 
 
