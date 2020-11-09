@@ -137,6 +137,18 @@
 | Notes | typed program for kattis|
 
 
+# asignment 7
+
+| Name | array |
+| :--- | :--- |
+| Name | array|
+| Description | assignment about arrays|
+| Due Date | 11 9 2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/array|
+| Self Grade | a|
+| Notes | typed program for kattis|
+
 
 
 
