@@ -30,25 +30,25 @@ int main(){
 
 }
 
-float findSum(float &n1, float &n2){
+float findSum(float const &n1, float const &n2){
     return (n1 + n2);
 }
-float findProduct(float &n1, float &n2){
+float findProduct(float const &n1, float const &n2){
     return (n1 * n2);
 }
-float findQuo(float &n1, float &n2){
+float findQuo(float const &n1, float const &n2){
     return (n1 / n2);
 }
-float findDiff(float &n1, float &n2){
+float findDiff(float const &n1, float const &n2){
     return (n1 - n2);
 }
-float findRem(float &n1, float &n2){
+float findRem(float const &n1, float const &n2){
     return (fmod(n1, n2));
 }
-float findExp(float &n1, float &n2){
+float findExp(float const &n1, float const &n2){
     return (pow(n1, n2));
 }
-float findSqrt(float &n1){
+float findSqrt(float const &n1){
     return (sqrt(n1));
 
 }
