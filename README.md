@@ -105,10 +105,33 @@
 | Name | Value |
 | :--- | :--- |
 | Name | 1  |
+| Description | assignment about hangman game setup |
+| Due Date |  |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/stdio|
+| Self Grade | b|
+| Notes | |
+
+## assignment 2
+
+| Name | Value |
+| :--- | :--- |
+| Name | 2 |
 | Description | assignment about math |
 | Due Date |  |
 | Status | Completed |
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/Triangle|
+| Self Grade | b|
+| Notes | |
+
+## assignment 3
+| Name | Value |
+| :--- | :--- |
+| Name | 3  |
+| Description | assignment about functions |
+| Due Date |  |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/functions|
 | Self Grade | b|
 | Notes | |
 
@@ -123,6 +146,17 @@
 | Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/conditionals|
 | Self Grade | a|
 | Notes | typed program to compute various operations on 5 numbers|
+
+## assignment 5
+| Name | Value |
+| :--- | :--- |
+| Name | 5  |
+| Description | assignment make guess number game |
+| Due Date |  |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/guessNumber|
+| Self Grade | b|
+| Notes | |
 
 ## asignment 6
 

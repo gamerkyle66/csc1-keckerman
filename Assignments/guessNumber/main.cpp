@@ -1,3 +1,8 @@
+/* 
+kyle Eckerman
+assignment about guees number program
+*/
+
 #include<iostream>
 #include<string>
 #include<cstdlib>
