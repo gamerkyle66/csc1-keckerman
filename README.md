@@ -186,3 +186,15 @@
 
 
 
+## final project
+
+| Name | final |
+| :--- | :--- |
+| Description | final project tic tac toe|
+| Due Date | 12 10 2020 |
+| Status | Completed |
+| Location | https://github.com/gamerkyle66/csc1-keckerman/tree/master/Assignments/finalProject|
+| Self Grade | b|
+| Notes | typed program that is tic tac toe game|
+
+
